@@ -1,7 +1,9 @@
 ## Project Overview
 
 This is the completed project for identifying and classifying dog breeds using
-a Convolution Neural Network (CNN).
+a Convolution Neural Network (CNN). Submitted as a capstone project for the Udacity Machine Learning Nanodegree.
+
+The main code pipeline is located in `dog_app.ipynb` and the project report is in `final_report.pdf`.
 
 A few extra testing images are located in `test_images`.
 
